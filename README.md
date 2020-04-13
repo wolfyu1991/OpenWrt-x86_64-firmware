@@ -1,5 +1,5 @@
-# OpenWrt firmware for Newifi D2
+# OpenWrt firmware for x86_64
 
-Auto build OpenWrt firmware for Newifi D2 via GitHub Actions
+Auto build OpenWrt firmware for x86_64 via GitHub Actions
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/P3TERX/OpenWrt-Newifi_D2?style=for-the-badge&label=Download)](https://github.com/P3TERX/OpenWrt-Newifi_D2/releases/latest)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/wolfyu1991/OpenWrt-x86_64-firmware?style=for-the-badge&label=Download)](https://github.com/wolfyu1991/OpenWrt-x86_64-firmware/releases/latest)
